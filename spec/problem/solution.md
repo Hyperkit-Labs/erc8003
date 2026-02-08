@@ -53,7 +53,7 @@ Each level feeds *compression summaries* upward and *refinement signals* downwar
 ### Layer 4: **The Differential Memory Protocol**
 *Goal: Only store what changes*
 
-Instead of storing the full context state, implement **delta-encoding with Merkle-tree verification** (leveraging your Web3 expertise):
+Instead of storing the full context state, implement **delta-encoding with Merkle-tree verification**
 
 - Store base context as a Merkle root hash
 - Only append *diffs* (semantic deltas) between turns
@@ -110,7 +110,7 @@ To build this, we need breakthroughs in three areas:
 
 1. **Hyperdimensional Computing Hardware**: Custom silicon (or FPGA implementations) optimized for bind/unbind operations at scale
 2. **Differentiable Graph Neural Networks**: GNNs that can be trained end-to-end with LLM objectives
-3. **Context-Economics**: A tokenomics model where maintaining high-quality context earns rewards (aligning with your Web3/AI infrastructure background)
+3. **Context-Economics**: A tokenomics model where maintaining high-quality context earns rewards
 
 ***
 ## [Introduction](https://github.com/Hyperkit-Labs/erc8003/blob/main/README.md)
