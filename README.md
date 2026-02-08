@@ -11,9 +11,9 @@
 This proposal defines a standard protocol for representing, compressing, and verifying Large Language Model (LLM) context windows as on-chain attestations. The Epistemic Context Lattice (ECL) enables AI agents to maintain cryptographically provable, infinitely extensible memory while reducing storage costs by 1000x through hyperdimensional computing and Merkleized differential state.
 
 ## The standard specifies:
-- ERC-8001-Context: Interface for compressed context NFTs
-- ERC-8001-Graph: Schema for knowledge graph attestations
-- ERC-8001-Verifier: On-chain verification of context integrity
+- ERC-8003-Context: Interface for compressed context NFTs
+- ERC-8003-Graph: Schema for knowledge graph attestations
+- ERC-8003-Verifier: On-chain verification of context integrity
 
 ## Core Concepts
 | Component         | Solidity Interface | Purpose                                    |
